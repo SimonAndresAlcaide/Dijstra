@@ -1,0 +1,57 @@
+
+
+body {
+  background-color: darkolivegreen;
+  font-family: sans-serif;
+  font-size: 1.25rem;
+}
+
+p {
+    text-align: justify;
+  }
+
+h1 {
+  color: white;
+  text-align: left;
+  text-shadow: black 5px 5px;
+  text-transform: uppercase;
+}
+
+p.mandingo {
+  border: brown 20px solid;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  margin-right: 50%;
+  padding: 10px;
+  background-color: chocolate;
+  color: white;
+}
+
+p.alien {
+    border: black 10px solid;
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    background-color: white;
+  }
+
+  p.sanderson {
+    border: cyan 5px dashed;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+  }
+  
+p.fandango {
+  border: coral 15px solid;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  margin-left: 50%;
+  padding: 5px;
+  background-color: peru;
+  color: white;
+}
+
